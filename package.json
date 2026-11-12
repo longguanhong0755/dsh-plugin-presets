@@ -28,6 +28,13 @@
     "profiles"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longguanhong0755/dsh-plugin-presets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/longguanhong0755/dsh-plugin-presets/issues"
+  },
   "engines": {
     "dsh": ">=0.2.0"
   },
