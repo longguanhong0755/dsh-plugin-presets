@@ -1,0 +1,13 @@
+node_modules/
+
+# Local real-DSH integration evidence and pre-install snapshots
+.it-backup/
+.it-results/
+
+# Transient test artifacts
+*.log
+preset-it-*.json
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,3 @@
+- insert:
+    - id: preset-it-fixture
+      name: 'dsh-plugin-presets-it-fixture'

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Plugin presets",
+    "description": "Save, switch, import, and export named snapshots of the active plugin configuration, with automatic backups and rollback."
+  }
+}

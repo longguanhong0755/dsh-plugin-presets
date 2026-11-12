@@ -1,0 +1,3 @@
+- insert:
+    - id: preset-it-harness
+      name: 'dsh-plugin-presets-it-harness'

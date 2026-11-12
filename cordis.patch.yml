@@ -1,0 +1,6 @@
+# Plugin presets: named snapshots of this profile's ordered bundle list and
+# complete cordis.patch.yml. The plugin stores its own data under
+# $DSH_HOME/plugin-presets/<profile>/ and never edits this file directly.
+- insert:
+    - id: plugin-presets
+      name: 'dsh-plugin-presets'
